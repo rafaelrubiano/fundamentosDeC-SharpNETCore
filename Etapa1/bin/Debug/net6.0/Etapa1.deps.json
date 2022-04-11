@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "coreEscuela/1.0.0": {
+      "Etapa1/1.0.0": {
         "runtime": {
-          "coreEscuela.dll": {}
+          "Etapa1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "coreEscuela/1.0.0": {
+    "Etapa1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

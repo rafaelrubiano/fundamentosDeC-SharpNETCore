@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/coreEscuela/coreEscuela.csproj",
-      "projectName": "coreEscuela",
-      "projectPath": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/coreEscuela/coreEscuela.csproj",
+      "projectUniqueName": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/Etapa1.csproj",
+      "projectName": "Etapa1",
+      "projectPath": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/Etapa1.csproj",
       "packagesPath": "/Users/rafaelrubiano/.nuget/packages/",
-      "outputPath": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/coreEscuela/obj/",
+      "outputPath": "/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rafaelrubiano/.nuget/NuGet/NuGet.Config"

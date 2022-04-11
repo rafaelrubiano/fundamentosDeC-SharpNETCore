@@ -1,0 +1,15 @@
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/Etapa1
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/Etapa1.deps.json
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/Etapa1.runtimeconfig.json
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/Etapa1.dll
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/ref/Etapa1.dll
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/bin/Debug/net6.0/Etapa1.pdb
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.csproj.AssemblyReference.cache
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.AssemblyInfoInputs.cache
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.AssemblyInfo.cs
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.csproj.CoreCompileInputs.cache
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.dll
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/ref/Etapa1.dll
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.pdb
+/Users/rafaelrubiano/Pictures/Platzi/fundamentosDeC-SharpNETCore/Etapa1/obj/Debug/net6.0/Etapa1.genruntimeconfig.cache
